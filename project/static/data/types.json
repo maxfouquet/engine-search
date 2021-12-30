@@ -1,0 +1,5 @@
+{
+    "types": [
+        {"type" : "health", "sites": ["doctissimo.fr", "femmeactuelle.fr"]}
+    ]
+}
